@@ -1,8 +1,8 @@
 {
-  "name": "templateforv2-static",
+  "name": "letter-boxed",
   "version": "1.0.0",
   "description": "",
-  "main": "index.html",
+  "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
     "build": "echo This is a static template, there is no bundler or bundling involved!"
@@ -12,12 +12,8 @@
     "url": "git+https://github.com/codesandbox-app/static-template.git"
   },
   "keywords": [],
-  "author": "Ives van Hoorne",
+  "author": "dev",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/codesandbox-app/static-template/issues"
-  },
-  "homepage": "https://github.com/codesandbox-app/static-template#readme",
   "dependencies": {
     "an-array-of-english-words": "^2.0.0",
     "nodemon": "^2.0.20"
